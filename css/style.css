@@ -155,26 +155,35 @@ h3 {
 /* FOOTER */
 footer {
   background-color: #25a2c3;
-  color: white;
+  color: #c8e7f0;
   text-align: center;
+  padding-block: 3rem;
+  font-family: "Open Sans", sans-serif;
 }
 
 footer h4 {
+  color: white;
   font-family: "Montserrat", sans-serif;
   font-weight: bold;
-  font-size: 28px;
+  font-size: 30px;
   letter-spacing: 1.1px;
-  padding: 2.5rem 0 1.5rem 0;
+  padding-bottom: 1.5rem;
 }
 
 hr {
   width: 50%;
   margin: auto;
+  margin-block: 1.8rem;
 }
 
 footer a {
-  color: white;
+  color: #c8e7f0;
   line-height: 27px;
+  font-family: "Open Sans", sans-serif;
+}
+
+.contact-info {
+  letter-spacing: 1.2px;
 }
 /* Footer: #c8e7f0
 Footer link: #c8e7f0 */
